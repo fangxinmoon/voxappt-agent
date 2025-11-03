@@ -51,7 +51,7 @@ export function PremiumUseCases() {
             Intelligent <span className="italic">Workflows</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            VoxApptAgent orchestrates complex conversation flows with precision, handling both inbound requests and
+            Voca orchestrates complex conversation flows with precision, handling both inbound requests and
             proactive outreach seamlessly.
           </p>
         </div>

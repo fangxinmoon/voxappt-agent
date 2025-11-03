@@ -7,7 +7,7 @@ const industries = [
   {
     title: "Beauty & Wellness",
     description:
-      "Hair salons, nail studios, spas, and beauty clinics trust VoxApptAgent to handle their high-volume booking needs.",
+      "Hair salons, nail studios, spas, and beauty clinics trust Voca to handle their high-volume booking needs.",
     image: "/modern-beauty-salon-interior-with-stylish-chairs-a.jpg",
     stats: ["300% booking increase", "50% fewer no-shows"],
   },
