@@ -61,7 +61,7 @@ export function PremiumHeader() {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">V</span>
             </div>
-            <span className="font-semibold text-lg">VoxApptAgent</span>
+            <span className="font-semibold text-lg">Voca</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">

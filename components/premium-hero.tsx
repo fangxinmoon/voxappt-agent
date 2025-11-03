@@ -19,7 +19,7 @@ export function PremiumHero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto text-balance">
-            VoxApptAgent handles appointments 24/7 with industry-leading AI, so you can focus on what matters most.
+            Voca handles appointments 24/7 with industry-leading AI, so you can focus on what matters most.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">

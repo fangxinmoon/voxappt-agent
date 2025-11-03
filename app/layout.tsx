@@ -7,9 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "VoxApptAgent - AI Phone Assistant for Service Businesses",
+  title: "Voca - AI Phone Assistant for Service Businesses",
   description:
-    "Never miss another call. VoxApptAgent handles appointments 24/7 for beauty, health, and pet service businesses.",
+    "Never miss another call. Voca handles appointments 24/7 for beauty, health, and pet service businesses.",
   generator: "v0.app",
 }
 
