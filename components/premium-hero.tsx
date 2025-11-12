@@ -26,9 +26,12 @@ export function PremiumHero() {
             <Button
               size="lg"
               className="text-lg px-8 py-6"
-              data-cal-link="xinyue-fang/30min"
-              data-cal-namespace="30min"
-              data-cal-config='{"layout":"month_view"}'
+              data-tally-open="VLEe7l"
+              data-tally-layout="modal"
+              data-tally-width="880"
+              data-tally-overlay="1"
+              data-tally-emoji-text="👋"
+              data-tally-emoji-animation="wave"
             >
               Start Free Trial
             </Button>
