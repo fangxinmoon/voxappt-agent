@@ -2,6 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { useEffect } from "react"
+import Image from "next/image"
 
 export function PremiumHeader() {
   useEffect(() => {
@@ -58,9 +59,13 @@ export function PremiumHeader() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-sm">V</span>
-            </div>
+            <Image
+              src="/vocalogo.png"
+              alt="Voca Logo"
+              width={32}
+              height={32}
+              className="w-8 h-8"
+            />
             <span className="font-semibold text-lg">Voca</span>
           </div>
 
