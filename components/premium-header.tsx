@@ -60,11 +60,12 @@ export function PremiumHeader() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Image
-              src="/vocalogo.png"
+              src="/vocalogo-small.png"
               alt="Voca Logo"
               width={32}
               height={32}
-              className="w-8 h-8"
+              className="w-8 h-8 object-contain"
+              priority
             />
             <span className="font-semibold text-lg">Voca</span>
           </div>
